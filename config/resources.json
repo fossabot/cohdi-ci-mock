@@ -1,0 +1,19 @@
+{
+  "resources": [
+    {
+      "res_uuid": "uuid1",
+      "res_serial_num": "uuidA",
+      "model": "a100"
+    },
+    {
+      "res_uuid": "uuid2",
+      "res_serial_num": "uuidB",
+      "model": "L40S"
+    },
+    {
+      "res_uuid": "uuid3",
+      "res_serial_num": "uuidC",
+      "model": "L40S"
+    }
+  ]
+}
